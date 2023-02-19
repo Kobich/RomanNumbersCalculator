@@ -1,4 +1,6 @@
 using Avalonia.Controls;
+using RomanNumbersCalculator.ViewModels;
+using System;
 
 namespace RomanNumbersCalculator.Views
 {
